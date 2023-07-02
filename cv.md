@@ -21,5 +21,19 @@ mail: 55zappa55@gmail.com
 * Figma, Gimp
 * VS Code
 
+#### Code example:
+[link-to -codewars] (https://www.codewars.com/users/IlyaZapas)
+===
+
+#### Courses:
+
+Full JavaScript cours on Udemy.
+===
+
+#### Languages:
+
+* Russian - Native
+* English - B1
+* German - B1
 
 
