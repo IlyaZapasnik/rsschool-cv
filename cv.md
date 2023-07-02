@@ -1,7 +1,7 @@
 https://IlyaZapasnik.github.io/rsschool-cv/cv
 
 ## Ilya Zapasnik
-### Junior Ftontend Developer
+### Junior Frontend Developer
 ![Ilya-Zapasnik-photo](/rsschool-cv/img/photo.jpg)
 
 ===
