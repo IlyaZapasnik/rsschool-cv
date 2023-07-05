@@ -15,7 +15,7 @@ body {
 }
 .contacts {
     position: absolute;
-    top: 70px;
+    top: 50px;
     left: 100px;
     display: flex;
     flex-direction: column;
@@ -36,7 +36,9 @@ body {
     color:#000000;
 }
 h1,
-h2 {
+h2,
+h3,
+h4 {
     margin: 0;
     text-align: center;
     color: #000000;
@@ -64,4 +66,20 @@ h2 {
 }
 .cv-nav-item a:hover {
     color:#000000;
+}
+.skills {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+.skills img {
+    display: block;
+    margin: 0 auto;
+}
+
+.hard-skills,
+.soft-skills {
+    list-style-type: none;
+    font-size: 1.7rem;
 }
