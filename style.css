@@ -3,6 +3,15 @@ body {
     background-color: #8c89f4;
     font-family: 'Roboto', sans-serif;
 }
+.top{
+    position:fixed;
+    bottom: 10px;
+    left:48%;
+    z-index: 1;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color:#d8f91a;
+}
 .header {
     height: 200px;
     background-color:#7b7a9b;
@@ -67,6 +76,9 @@ h4 {
 .cv-nav-item a:hover {
     color:#000000;
 }
+.section {
+    margin-bottom: 40px;
+}
 .skills {
     display: flex;
     justify-content: space-around;
@@ -82,4 +94,14 @@ h4 {
 .soft-skills {
     list-style-type: none;
     font-size: 1.7rem;
+}
+.code-example {
+    height: 400px;
+    background-color:#ffffff;
+}
+.code-example a {
+    text-decoration: none;
+    color:#8c89f4;
+    display: block;
+    text-align: center;
 }
